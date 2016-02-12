@@ -4,6 +4,11 @@ title: Social Authentication
 excerpt: Setting up an Okta Social Authentication provider
 ---
 
+> Social Authentication is currently in ****Early Access (EA)**** status.
+
+You will need to contact Okta if you want to try Social Authentication
+on your Okta org.
+
 # Overview
 
 Okta Social Authentication allows Okta to integrate with a Social
